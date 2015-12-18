@@ -9,4 +9,4 @@ The "issues" section resemble threads.
 
 There's also a wiki.
 
-
+This code section gets rendered nicely if in markdown and benefits from all the normal version control goodness.

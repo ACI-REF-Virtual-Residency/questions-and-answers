@@ -9,3 +9,5 @@ The "issues" section resemble threads -- we can discuss things there and then pe
 
 
 This code section gets rendered nicely if in markdown and benefits from all the normal version control goodness like being able to clone it to your local storage.  I don't know if the wiki goes anywhere but here which means if github goes away, we'd lose it. 
+
+Dana is editing the readme file. 
